@@ -2,7 +2,8 @@ package Methods;
 
 public class StringBasic {
     public static void main(String[]args){
-        // create simple string and compare where it store in memory hear area sop
+        // create simple string and compare where it in memory either hear area or String constant pool sop.
+
         String name = "Ashish";
         String samename ="Ashish";
         String newName = new String (  "Ashish");
